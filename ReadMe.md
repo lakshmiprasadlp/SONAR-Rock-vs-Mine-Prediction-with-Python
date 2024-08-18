@@ -1,6 +1,4 @@
-Here's the updated README.md file with the images added:
 
----
 
 # SONAR Rock vs Mine Prediction
 
